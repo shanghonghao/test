@@ -1,0 +1,11 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    transition: width 3s,height 3s, background-color 3s;
+}
+.on{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
